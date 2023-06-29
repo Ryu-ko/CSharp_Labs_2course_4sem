@@ -1,3 +1,3 @@
-##CSharp_Labs_2course_4sem
+## CSharp_Labs_2course_4sem
 
-#Win forms and WPF
+# Win forms and WPF
