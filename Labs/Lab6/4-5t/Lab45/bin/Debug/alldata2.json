@@ -1,0 +1,39 @@
+[
+    {"imgPath":"file:///F:/.Уник/4 сем/ООП/Labs/4-5t/Lab45/Imgs/bookhaksliNewBraveWorld.jpg",
+    "Title":"О дивный новый мир",
+    "Cost":50000,
+    "Bodytype":"Олдос Хаксли",
+    "Rating":"4"
+    },
+
+    {"imgPath":"file:///F:/.Уник/4 сем/ООП/Labs/4-5t/Lab45/Imgs/bookSijanie.jpg",
+    "Title":"Сияние",
+    "Cost":2500000,
+    "Bodytype":"Стивен Кинг",
+    "Rating":"3"},
+
+    {"imgPath":"file:///F:/.Уник/4 сем/ООП/Labs/4-5t/Lab45/Imgs/bookMasterMargarita.jpg",
+    "Title":"Мастер и Маргарита",
+    "Cost":89000,
+    "Bodytype":"Михаил Булгаков",
+    "Rating":"3"},
+
+    {"imgPath":"file:///F:/.Уник/4 сем/ООП/Labs/4-5t/Lab45/Imgs/bookMorphi.jpg",
+    "Title":"Морфий",
+    "Cost":40000,
+    "Bodytype":"Михаил Булгаков",
+    "Rating":"2"},
+
+    {"imgPath":"file:///F:/.Уник/4 сем/ООП/Labs/4-5t/Lab45/Imgs/bookPrestNakaz.jpg",
+    "Title":"Преступление и наказание",
+    "Cost":30000,
+    "Bodytype":"Федор Достоевский",
+    "Rating":"5"},
+
+    {"imgPath":"file:///F:/.Уник/4 сем/ООП/Labs/4-5t/Lab45/Imgs/bookKerry.jpg",
+    "Title":"Кэрри",
+    "Cost":120000,
+    "Bodytype":"Стивен Кинг",
+    "Rating":"3"}
+
+]

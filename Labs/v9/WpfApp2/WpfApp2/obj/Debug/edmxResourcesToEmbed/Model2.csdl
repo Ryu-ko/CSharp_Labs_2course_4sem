@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema xmlns="http://schemas.microsoft.com/ado/2009/11/edm" xmlns:cg="http://schemas.microsoft.com/ado/2006/04/codegeneration" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" Namespace="Model2" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" annotation:UseStrongSpatialTypes="false">
+  <EntityContainer Name="Model2Container" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="PassporteeSet" EntityType="Model2.Passportee" />
+    <EntitySet Name="Entity1Set" EntityType="Model2.Entity1" />
+    <AssociationSet Name="PassporteeEntity1" Association="Model2.PassporteeEntity1">
+      <End Role="Passportee" EntitySet="PassporteeSet" />
+      <End Role="Entity1" EntitySet="Entity1Set" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Passportee">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <NavigationProperty Name="Entity1" Relationship="Model2.PassporteeEntity1" FromRole="Passportee" ToRole="Entity1" />
+  </EntityType>
+  <EntityType Name="Entity1">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <NavigationProperty Name="Passportee" Relationship="Model2.PassporteeEntity1" FromRole="Entity1" ToRole="Passportee" />
+  </EntityType>
+  <Association Name="PassporteeEntity1">
+    <End Type="Model2.Passportee" Role="Passportee" Multiplicity="1" />
+    <End Type="Model2.Entity1" Role="Entity1" Multiplicity="*" />
+  </Association>
+</Schema>

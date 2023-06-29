@@ -1,0 +1,51 @@
+﻿<UserControl x:Class="Lab45.myCustomControl.UControl1"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Lab45.myCustomControl"
+             mc:Ignorable="d" 
+            d:DesignHeight = "100" d:DesignWidth = "300"
+             >
+    <Grid>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="2.4*" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+
+
+            <TextBox 
+            Grid.Column="0"
+            Height = "23"  
+            Margin = "0,10,12,0" 
+            Name="txtLimitedInput"
+            VerticalAlignment = "Top"
+            MaxLength="{Binding MaxLength}" 
+            Text="{Binding Price, Mode=TwoWay}"
+            />
+
+            <StackPanel Orientation="Horizontal"
+                        Grid.Column="1" 
+                        Margin="0 12 0 0"
+                        >
+                <TextBlock Text="{Binding ElementName=txtLimitedInput, Path=Text.Length}"   Foreground="Aqua"/>
+                <TextBlock Text="/"  Foreground="Aqua" />
+                <TextBlock Text="{Binding MaxLength}" 
+                    Foreground="Aqua"/>
+            </StackPanel>
+
+            <Button 
+            Content = "Click Me"  
+            HorizontalAlignment = "Left"  
+            Margin = "0,50,0,0" 
+            Name = "button"  
+            Style="{DynamicResource ButtonStyleTW}"
+            VerticalAlignment = "Top" 
+             Click="Submit_Click"
+            
+            />
+
+        </Grid>
+    </Grid>
+</UserControl>

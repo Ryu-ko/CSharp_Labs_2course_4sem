@@ -1,0 +1,40 @@
+D:\курс_2\Сем2\ООП\lab3\lab3\bin\Debug\net7.0-windows\lab3.exe
+D:\курс_2\Сем2\ООП\lab3\lab3\bin\Debug\net7.0-windows\lab3.deps.json
+D:\курс_2\Сем2\ООП\lab3\lab3\bin\Debug\net7.0-windows\lab3.runtimeconfig.json
+D:\курс_2\Сем2\ООП\lab3\lab3\bin\Debug\net7.0-windows\lab3.dll
+D:\курс_2\Сем2\ООП\lab3\lab3\bin\Debug\net7.0-windows\lab3.pdb
+D:\курс_2\Сем2\ООП\lab3\lab3\obj\Debug\net7.0-windows\lab3.csproj.AssemblyReference.cache
+D:\курс_2\Сем2\ООП\lab3\lab3\obj\Debug\net7.0-windows\Lab1.Form1.resources
+D:\курс_2\Сем2\ООП\lab3\lab3\obj\Debug\net7.0-windows\lab3.Search.Search.resources
+D:\курс_2\Сем2\ООП\lab3\lab3\obj\Debug\net7.0-windows\lab3.csproj.GenerateResource.cache
+D:\курс_2\Сем2\ООП\lab3\lab3\obj\Debug\net7.0-windows\lab3.GeneratedMSBuildEditorConfig.editorconfig
+D:\курс_2\Сем2\ООП\lab3\lab3\obj\Debug\net7.0-windows\lab3.AssemblyInfoInputs.cache
+D:\курс_2\Сем2\ООП\lab3\lab3\obj\Debug\net7.0-windows\lab3.AssemblyInfo.cs
+D:\курс_2\Сем2\ООП\lab3\lab3\obj\Debug\net7.0-windows\lab3.csproj.CoreCompileInputs.cache
+D:\курс_2\Сем2\ООП\lab3\lab3\obj\Debug\net7.0-windows\lab3.dll
+D:\курс_2\Сем2\ООП\lab3\lab3\obj\Debug\net7.0-windows\refint\lab3.dll
+D:\курс_2\Сем2\ООП\lab3\lab3\obj\Debug\net7.0-windows\lab3.pdb
+D:\курс_2\Сем2\ООП\lab3\lab3\obj\Debug\net7.0-windows\lab3.genruntimeconfig.cache
+D:\курс_2\Сем2\ООП\lab3\lab3\obj\Debug\net7.0-windows\ref\lab3.dll
+D:\курс_2\Сем2\ООП\lab3\lab3\obj\Debug\net7.0-windows\lab3.Sorting.Sorting.resources
+D:\курс_2\Сем2\ООП\lab3\lab3\obj\Debug\net7.0-windows\lab3.About.About.resources
+F:\.Уник\4 сем\ООП\Labs\lab3\lab3\bin\Debug\net7.0-windows\lab3.exe
+F:\.Уник\4 сем\ООП\Labs\lab3\lab3\bin\Debug\net7.0-windows\lab3.deps.json
+F:\.Уник\4 сем\ООП\Labs\lab3\lab3\bin\Debug\net7.0-windows\lab3.runtimeconfig.json
+F:\.Уник\4 сем\ООП\Labs\lab3\lab3\bin\Debug\net7.0-windows\lab3.dll
+F:\.Уник\4 сем\ООП\Labs\lab3\lab3\bin\Debug\net7.0-windows\lab3.pdb
+F:\.Уник\4 сем\ООП\Labs\lab3\lab3\obj\Debug\net7.0-windows\lab3.csproj.AssemblyReference.cache
+F:\.Уник\4 сем\ООП\Labs\lab3\lab3\obj\Debug\net7.0-windows\lab3.About.About.resources
+F:\.Уник\4 сем\ООП\Labs\lab3\lab3\obj\Debug\net7.0-windows\Lab1.Form1.resources
+F:\.Уник\4 сем\ООП\Labs\lab3\lab3\obj\Debug\net7.0-windows\lab3.Search.Search.resources
+F:\.Уник\4 сем\ООП\Labs\lab3\lab3\obj\Debug\net7.0-windows\lab3.Sorting.Sorting.resources
+F:\.Уник\4 сем\ООП\Labs\lab3\lab3\obj\Debug\net7.0-windows\lab3.csproj.GenerateResource.cache
+F:\.Уник\4 сем\ООП\Labs\lab3\lab3\obj\Debug\net7.0-windows\lab3.GeneratedMSBuildEditorConfig.editorconfig
+F:\.Уник\4 сем\ООП\Labs\lab3\lab3\obj\Debug\net7.0-windows\lab3.AssemblyInfoInputs.cache
+F:\.Уник\4 сем\ООП\Labs\lab3\lab3\obj\Debug\net7.0-windows\lab3.AssemblyInfo.cs
+F:\.Уник\4 сем\ООП\Labs\lab3\lab3\obj\Debug\net7.0-windows\lab3.csproj.CoreCompileInputs.cache
+F:\.Уник\4 сем\ООП\Labs\lab3\lab3\obj\Debug\net7.0-windows\lab3.dll
+F:\.Уник\4 сем\ООП\Labs\lab3\lab3\obj\Debug\net7.0-windows\refint\lab3.dll
+F:\.Уник\4 сем\ООП\Labs\lab3\lab3\obj\Debug\net7.0-windows\lab3.pdb
+F:\.Уник\4 сем\ООП\Labs\lab3\lab3\obj\Debug\net7.0-windows\lab3.genruntimeconfig.cache
+F:\.Уник\4 сем\ООП\Labs\lab3\lab3\obj\Debug\net7.0-windows\ref\lab3.dll

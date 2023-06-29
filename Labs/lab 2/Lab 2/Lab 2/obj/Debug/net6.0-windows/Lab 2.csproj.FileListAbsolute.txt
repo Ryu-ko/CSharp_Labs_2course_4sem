@@ -1,0 +1,17 @@
+F:\.Уник\4 сем\ООП\Labs\lab 2\Lab 2\Lab 2\bin\Debug\net6.0-windows\Lab 2.exe
+F:\.Уник\4 сем\ООП\Labs\lab 2\Lab 2\Lab 2\bin\Debug\net6.0-windows\Lab 2.deps.json
+F:\.Уник\4 сем\ООП\Labs\lab 2\Lab 2\Lab 2\bin\Debug\net6.0-windows\Lab 2.runtimeconfig.json
+F:\.Уник\4 сем\ООП\Labs\lab 2\Lab 2\Lab 2\bin\Debug\net6.0-windows\Lab 2.dll
+F:\.Уник\4 сем\ООП\Labs\lab 2\Lab 2\Lab 2\bin\Debug\net6.0-windows\Lab 2.pdb
+F:\.Уник\4 сем\ООП\Labs\lab 2\Lab 2\Lab 2\obj\Debug\net6.0-windows\Lab 2.csproj.AssemblyReference.cache
+F:\.Уник\4 сем\ООП\Labs\lab 2\Lab 2\Lab 2\obj\Debug\net6.0-windows\Lab_2.Library.resources
+F:\.Уник\4 сем\ООП\Labs\lab 2\Lab 2\Lab 2\obj\Debug\net6.0-windows\Lab 2.csproj.GenerateResource.cache
+F:\.Уник\4 сем\ООП\Labs\lab 2\Lab 2\Lab 2\obj\Debug\net6.0-windows\Lab 2.GeneratedMSBuildEditorConfig.editorconfig
+F:\.Уник\4 сем\ООП\Labs\lab 2\Lab 2\Lab 2\obj\Debug\net6.0-windows\Lab 2.AssemblyInfoInputs.cache
+F:\.Уник\4 сем\ООП\Labs\lab 2\Lab 2\Lab 2\obj\Debug\net6.0-windows\Lab 2.AssemblyInfo.cs
+F:\.Уник\4 сем\ООП\Labs\lab 2\Lab 2\Lab 2\obj\Debug\net6.0-windows\Lab 2.csproj.CoreCompileInputs.cache
+F:\.Уник\4 сем\ООП\Labs\lab 2\Lab 2\Lab 2\obj\Debug\net6.0-windows\Lab 2.dll
+F:\.Уник\4 сем\ООП\Labs\lab 2\Lab 2\Lab 2\obj\Debug\net6.0-windows\refint\Lab 2.dll
+F:\.Уник\4 сем\ООП\Labs\lab 2\Lab 2\Lab 2\obj\Debug\net6.0-windows\Lab 2.pdb
+F:\.Уник\4 сем\ООП\Labs\lab 2\Lab 2\Lab 2\obj\Debug\net6.0-windows\Lab 2.genruntimeconfig.cache
+F:\.Уник\4 сем\ООП\Labs\lab 2\Lab 2\Lab 2\obj\Debug\net6.0-windows\ref\Lab 2.dll

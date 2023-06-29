@@ -1,0 +1,320 @@
+﻿<Window x:Class="WpfApp2.Update"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp2"
+         WindowStartupLocation="CenterScreen"
+        mc:Ignorable="d"
+        Title="View" 
+        Width="900 "
+         Height="670"
+        Background="#FF92ADDF">
+
+    <Grid>
+
+        <Label
+            Margin="17,25,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Content="Update data"
+            FontSize="22"
+            FontWeight="Bold"
+            Foreground="Black" FontFamily="Calibri" />
+        <Label
+            Margin="33,67,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Content="First name"
+            FontSize="16"
+            FontWeight="Bold"
+            Foreground="Black" />
+        <TextBox
+            x:Name="firstNameTextBox"
+            Width="250"
+            Height="33"
+            Margin="33,106,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            VerticalContentAlignment="Center"
+            Background="White"
+            BorderBrush="Black"
+            FontSize="16"
+            TextWrapping="Wrap" />
+        <Label
+            Margin="33,144,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Content="Middle name"
+            FontSize="16"
+            FontWeight="Bold"
+            Foreground="Black" />
+        <TextBox
+            x:Name="middleNameTextBox"
+            Width="250"
+            Height="33"
+            Margin="33,183,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            VerticalContentAlignment="Center"
+            Background="White"
+            BorderBrush="Black"
+            FontSize="16"
+            TextWrapping="Wrap" />
+        <Label
+            Margin="34,230,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Content="Last name"
+            FontSize="16"
+            FontWeight="Bold"
+            Foreground="Black" />
+        <TextBox
+            x:Name="lastNameTextBox"
+            Width="249"
+            Height="33"
+            Margin="34,269,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            VerticalContentAlignment="Center"
+            Background="White"
+            BorderBrush="Black"
+            FontSize="16"
+            TextWrapping="Wrap" />
+        <Label
+            Margin="43,307,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Content="Age"
+            FontSize="16"
+            FontWeight="Bold"
+            Foreground="Black" />
+        <TextBox
+            x:Name="ageTextBox"
+            Width="249"
+            Height="33"
+            Margin="34,341,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            VerticalContentAlignment="Center"
+            Background="White"
+            BorderBrush="Black"
+            FontSize="16"
+            TextWrapping="Wrap" />
+        <Label
+            Margin="351,230,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Content="Street"
+            FontSize="16"
+            FontWeight="Bold"
+            Foreground="Black" />
+        <TextBox
+            x:Name="streetTextBox"
+            Width="244"
+            Height="33"
+            Margin="351,269,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            VerticalContentAlignment="Center"
+            Background="White"
+            BorderBrush="Black"
+            FontSize="16"
+            TextWrapping="Wrap" />
+        <Label
+            Margin="351,307,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Content="House"
+            FontSize="16"
+            FontWeight="Bold"
+            Foreground="Black" />
+        <TextBox
+            x:Name="houseTextBox"
+            Width="244"
+            Height="32"
+            Margin="351,346,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            VerticalContentAlignment="Center"
+            Background="White"
+            BorderBrush="Black"
+            FontSize="16"
+            TextWrapping="Wrap" />
+        <Label
+            Margin="361,383,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Content="Build"
+            FontSize="16"
+            FontWeight="Bold"
+            Foreground="Black" />
+        <TextBox
+            x:Name="buildTextBox"
+            Width="244"
+            Height="33"
+            Margin="351,422,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            VerticalContentAlignment="Center"
+            Background="White"
+            BorderBrush="Black"
+            FontSize="16"
+            TextWrapping="Wrap" />
+        <Label
+            Margin="360,460,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Content="Flat"
+            FontSize="16"
+            FontWeight="Bold"
+            Foreground="Black" />
+        <TextBox
+            x:Name="flatTextBox"
+            Width="244"
+            Height="33"
+            Margin="351,493,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            VerticalContentAlignment="Center"
+            Background="White"
+            BorderBrush="Black"
+            FontSize="16"
+            TextWrapping="Wrap" />
+        <Label
+            Margin="34,383,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Content="Phone"
+            FontSize="16"
+            FontWeight="Bold"
+            Foreground="Black" />
+        <TextBox
+            x:Name="phoneTextBox"
+            Width="250"
+            Height="33"
+            Margin="33,422,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            VerticalContentAlignment="Center"
+            Background="White"
+            BorderBrush="Black"
+            FontSize="16"
+            TextWrapping="Wrap" />
+        <Label
+            Margin="665,67,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Content="Serial"
+            FontSize="16"
+            FontWeight="Bold"
+            Foreground="Black" />
+        <TextBox
+            x:Name="serialTextBox"
+            Width="209"
+            Height="33"
+            Margin="665,106,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            VerticalContentAlignment="Center"
+            Background="White"
+            BorderBrush="Black"
+            FontSize="16"
+            TextWrapping="Wrap" />
+        <Label
+            Margin="361,67,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Content="Country"
+            FontSize="16"
+            FontWeight="Bold"
+            Foreground="Black" />
+        <TextBox
+            x:Name="countryTextBox"
+            Width="244"
+            Height="33"
+            Margin="351,106,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            VerticalContentAlignment="Center"
+            Background="White"
+            BorderBrush="Black"
+            FontSize="16"
+            TextWrapping="Wrap" />
+        <Label
+            Margin="665,144,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Content="Number"
+            FontSize="16"
+            FontWeight="Bold"
+            Foreground="Black" />
+        <TextBox
+            x:Name="numberTextBox"
+            Width="209"
+            Height="33"
+            Margin="665,183,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            VerticalContentAlignment="Center"
+            Background="White"
+            BorderBrush="Black"
+            FontSize="16"
+            TextWrapping="Wrap" />
+        <Label
+            Margin="368,144,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Content="City"
+            FontSize="16"
+            FontWeight="Bold"
+            Foreground="Black" />
+        <TextBox
+            x:Name="cityTextBox"
+            Width="244"
+            Height="33"
+            Margin="351,183,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            VerticalContentAlignment="Center"
+            Background="White"
+            BorderBrush="Black"
+            FontSize="16"
+            TextWrapping="Wrap" />
+        <Label
+            Margin="665,223,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Content="Photo"
+            FontSize="16"
+            FontWeight="Bold"
+            Foreground="Black" />
+        <Button
+            x:Name="updateButton"
+            Width="881"
+            Height="35"
+            Margin="0,559,0,0"
+            HorizontalAlignment="Center"
+            VerticalAlignment="Top"
+            Background="#FF3355FF"
+            BorderBrush="Black"
+            Click="updateButton_Click"
+            Content="update data"
+            FontSize="18"
+            Foreground="White" />
+        <Button
+            x:Name="imgButton"
+            Width="209"
+            Height="33"
+            Margin="665,259,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            BorderBrush="Black"
+            Click="imgButton_Click"
+            Content="upload"
+            FontSize="16"
+            FontWeight="Bold"
+            Foreground="White" Background="Black" />
+
+    </Grid>
+</Window>
